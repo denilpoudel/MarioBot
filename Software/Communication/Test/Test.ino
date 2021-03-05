@@ -1,4 +1,5 @@
 const int hello = 10;
+const int CONFLICT = 11;
 
 void setup() {
   // put your setup code here, to run once:
